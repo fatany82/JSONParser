@@ -1,2 +1,0 @@
-# jsonparser
-Simple JSON Parser
